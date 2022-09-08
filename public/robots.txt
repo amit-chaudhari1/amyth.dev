@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://fa34-49-36-36-74.ngrok.io/sitemap.xml
