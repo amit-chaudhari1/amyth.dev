@@ -25,24 +25,24 @@ languages:
           series: series
         menu:
             main:
-                - name: Search
-                  url: search/
+                - name: About
+                  url: about
+                  weight: 1
+                - name: Resume
+                  url: resume
                   weight: 2
                 - name: Tags
                   url: tags/
                   weight: 3
-                - name: Resume
-                  url: resume
-                  weight: 4
-                - name: About
-                  url: about
-                  weight: 5
                 - name: Categories
                   url: categories
-                  weight: 6
-                - name: Archive
+                  weight: 4
+                - name: Archives
                   url: archives
-                  weight: 7
+                  weight: 5
+                - name: Search
+                  url: search/
+                  weight: 6
 
 outputs:
     home:
@@ -97,17 +97,17 @@ params:
         - name: github
           url: "https://github.com/amitchaudhari9121"
         - name: stackoverflow
-          url: "HUHU"
+          url: "https://stackoverflow.com/users/7249591/amit-chaudhari"
         - name: linkedin
-          url: "huhu"
+          url: "https://www.linkedin.com/in/amyth-dev/"
         - name: twitter
-          url: "huhu"
+          url: "https://twitter.com/amyth_dev"
         - name: Rss
           url: "index.xml"
 
     editPost:
         # open up a new issue template within that project
-        URL: "https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite/content"
+        URL: "https://github.com/amitchaudhari9121/amyth.dev"
         Text: "Suggest Changes" # edit text
         appendFilePath: true # to append file path to Edit link
 
@@ -144,6 +144,15 @@ params:
 
 markup:
     goldmark:
+        extensions:
+            definitionList : true
+            footnote : true
+            linkify : true
+            linkifyProtocol : 'https'
+            strikethrough : true
+            table : true
+            taskList : true
+            typographer : true
         renderer:
             unsafe: true
     highlight:

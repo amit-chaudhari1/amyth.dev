@@ -1,5 +1,5 @@
 ---
-title: "{{ replace .Name "_" " " | title }}"
+title: "Tabs_and_sheets"
 date: 2020-09-15T11:30:03+00:00
 # weight: 1
 # aliases: ["/first"]
@@ -35,3 +35,5 @@ editPost:
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 ---
+
+# List of tab and musical sheets 

@@ -2,3 +2,4 @@
 - auto metadata generation. (to an extent_ i guess)
 - ext. Emoji support.
 - search does not seem to work
+- plotly and katex support please 

@@ -1,17 +1,17 @@
 ---
-title: "{{ replace .Name "_" " " | title }}"
+title: "Games"
 date: 2020-09-15T11:30:03+00:00
 # weight: 1
 # aliases: ["/first"]
-tags: ["draft"]
+tags: ["games", "fluff"]
 author: "Amit Chaudhari"
 # author: ["Me", "You"] # multiple authors
-showToc: true
+showToc: false
 TocOpen: false
-draft: true
+draft: false
 hidemeta: false
 comments: false
-description: "Desc Text."
+description: "All that Ryzen7 + 32GB 3200Mhz + RTX 3070 goodness being put to good use."
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: false
@@ -35,3 +35,67 @@ editPost:
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 ---
+
+Factorio 
+
+CounterStrike: Global offensive
+
+Valorant
+
+Gris
+
+Sekiro: Shadows Die Twice (complete tryhard fan of this one)
+
+PolyBridge
+
+Asseto Corza Competizione
+
+Apex Legends
+
+Red Dead Redemption 2
+
+Hades
+
+Forza Horizon 5
+
+Wolfenstien series (the newer one)
+
+Wishlist: ( I don’t buy these cause i want to be somewhat productive atleast 😅 )
+
+Arma 3 
+
+FTL : faster than light
+
+Payday 2
+
+DayZ 
+
+Euro truck Simulator 2
+
+Cuphead
+
+Elden Ring
+
+Hollow knight
+
+Darksouls 3 
+
+Demon sould 
+
+God of war (the one where kratos goes “BOY”)
+
+Half Life: Alyx (just for the VR exp)
+
+Devil May cry 5 
+
+Mordhau
+
+Insurgency
+
+Hell Let Loose
+
+Escape from tarkov
+
+Noita
+
+Kerbal Space Program
