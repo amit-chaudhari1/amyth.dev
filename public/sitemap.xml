@@ -2,25 +2,69 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://fa34-49-36-36-74.ngrok.io/</loc>
+    <loc>https://localhost:1313/papermod/how_i_escaped_tutorial_hell/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>https://fa34-49-36-36-74.ngrok.io/tags/first/</loc>
+    <loc>https://localhost:1313/tags/advice/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>https://fa34-49-36-36-74.ngrok.io/test_me_out/</loc>
+    <loc>https://localhost:1313/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>https://fa34-49-36-36-74.ngrok.io/resume/</loc>
+    <loc>https://localhost:1313/blueprints/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>https://fa34-49-36-36-74.ngrok.io/tags/</loc>
+    <loc>https://localhost:1313/tags/draft/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>https://fa34-49-36-36-74.ngrok.io/categories/</loc>
+    <loc>https://localhost:1313/tags/fluff/</loc>
+    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>https://fa34-49-36-36-74.ngrok.io/search/</loc>
+    <loc>https://localhost:1313/tags/games/</loc>
+    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>https://fa34-49-36-36-74.ngrok.io/archives/</loc>
+    <loc>https://localhost:1313/games/</loc>
+    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://localhost:1313/tags/gear/</loc>
+    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://localhost:1313/papermod/no_matter_how/</loc>
+    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://localhost:1313/tags/non-tech/</loc>
+    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://localhost:1313/papermod/</loc>
+    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://localhost:1313/resume/</loc>
+    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://localhost:1313/tabs_and_sheets/</loc>
+    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://localhost:1313/tags/</loc>
+    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://localhost:1313/uses/</loc>
+    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://localhost:1313/tags/wish-i-was-told-this/</loc>
+    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://localhost:1313/papermod/write_code_for_humans_not_machines/</loc>
+    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://localhost:1313/about/</loc>
+    <lastmod>2017-02-01T19:20:04-07:00</lastmod>
+  </url><url>
+    <loc>https://localhost:1313/categories/</loc>
+  </url><url>
+    <loc>https://localhost:1313/search/</loc>
+  </url><url>
+    <loc>https://localhost:1313/series/</loc>
+  </url><url>
+    <loc>https://localhost:1313/archives/</loc>
   </url>
 </urlset>
