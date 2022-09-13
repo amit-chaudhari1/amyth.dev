@@ -1,6 +1,6 @@
 ---
 title: "How I escaped Tutorial Hell"
-date: 2020-09-15T11:30:03+00:00
+date: 2022-08-05T11:30:03+00:00
 weight: 1
 # aliases: ["/first"]
 tags: ["Advice", "Wish I Was Told This", "Non-Tech"]

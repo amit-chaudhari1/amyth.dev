@@ -51,7 +51,7 @@ outputs:
         - JSON
 
 params:
-    env: development
+    env: production
     description: "Amit Chaudhari: Backend Developer"
     author: Amit Chaudhari
     # author: ["Me", "You"] # multiple authors
