@@ -34,6 +34,7 @@ editPost:
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 ---
+
 Any fool can write code that a computer can understand. Good programmers write code that humans can understand.
 
 ## **Inspiration**

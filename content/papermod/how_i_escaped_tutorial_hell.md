@@ -1,4 +1,3 @@
-
 ---
 title: "How I escaped Tutorial Hell"
 date: 2020-09-15T11:30:03+00:00
@@ -10,10 +9,9 @@ author: "Me"
 showToc: true
 TocOpen: false
 ShowCodeCopyButtons : true
-draft: true
+draft: false
 hidemeta: false
 comments: false
-canonicalURL: "https://canonical.url/to/page"
 disableShare: true
 disableHLJS: false
 hideSummary: false
@@ -35,9 +33,7 @@ editPost:
     appendFilePath: true # to append file path to Edit link
 ---
 
-# post: how I escaped tutorial hell
-
-- first step starts with realizing you have a problem.
+> first step starts with realizing where we are within the hell. Also, Don't worry, everybody's been there at some point.
 
 Do you feel blank when you try to think of what should you do as a developer when you have an idea of your volition and you don’t have a clue how to get around coding it?
 
@@ -45,19 +41,15 @@ Do you get frozen if there’s not a single youtube tutorial on the problem that
 
 Are you not able to code anything significant if there is no tutorial on youtube or a blogpost or a step by step guide that guides you through the *forest of development nightmares?*
 
-**If you said yes to either of these questions, chief i’m sorry but you are kind of, maybe, proabably, *surely* in tutorial hell.**
+**If you said yes to either of these questions, chief i’m sorry but you are kind of, maybe, probably, *surely* in tutorial hell.**
 
-There’s different depths to it just like the world ruled by hades. and you my lovely Zagreus, are going to clear it rise up to the top.
-
-<depths of hades the game and credit it.>
-
-[https://www.reddit.com/r/HadesTheGame/comments/fpdwns/stitched_together_map_of_the_climb_out_of_hades/](https://www.reddit.com/r/HadesTheGame/comments/fpdwns/stitched_together_map_of_the_climb_out_of_hades/)
-
-PS- i’m a great fan of hades the game.
+There’s depths to it just like the world ruled by hades. and you my lovely Zagreus, are going to clear it rise up to the top 
 
 I’ve got some ~~~~boons~~~~ advice that will help you clear the hell faster, and might help you in your adventures beyond the hell.
 
-- Build atomic projects
+PS- i’m a great fan of hades the game.
+
+## Build atomic projects
 
 Build small, really small, I’ve created a project whose sole feature was that it was able to connect to a postgres db and run a simple query that returns a  `Aur bhai!!! kya haal chaal` 
 
@@ -79,11 +71,9 @@ The *protégé effect* is a psychological phenomenon where teaching, pretendin
 
 This is one of the selfish reasons that has kept me eager to answer people and be open to helping others and answering development questions. (mostly on discord servers)
 
-Fun fact: I have a kindergarten panda that’s used as a puppet to sit through all my lectures, all my debugging sessions, all my rants, and all my coping sessions, with all that he’s been through, i bet he knows enough to be called a CSE and EE majors graduate.
+Fun fact: I have a kindergarten panda that’s used as a puppet to sit through all my lectures, all my debugging sessions, all my rants, and all my coping sessions, with all that he’s been through, I bet he knows enough to be called a CSE and EE majors graduate.
 
-<panda_image.png>
-
-- Give yourself time
+## Give yourself time
 
 hold your horses before you think 3 months and i’mma be a awesome <insert language name here> expert. you could be, if you are already familiar with some other xyz tech. Sorry, you can’t just speed through everything. I’ve kept a mindset in the past where i thought if i could just focus enough on a single task, i could finish it much faster than others could, I’ve learnt that i’m not special and i take average times to learn. While you yourself could be a genius who only took 3 months to become an expert in X Language, you are very unlikely to be one though, speaking statistically.   
 
@@ -95,9 +85,14 @@ Note: i don’t mean that black boxing is bad or something you should not do, I�
 
 and i’m not saying the kings and queens reading this are no genius. i hope you are, but even the best of them need time for certain things, and it’s okay.
 
-- Learn to solve bugs/ troubleshoot
+## Learn to solve bugs/ troubleshoot
 
-- Coding Challenges
+Troubleshooting and solving bugs is something that you only better at by experience and learning. Over the years I've seen myself get better at solving bugs and troubleshooting problems rather exponentially, I think the reason behind this is that I watch and learn from every possible place. I don't do arduino development / aviation mechanics, but I still watch and follow [tom stanton](https://www.youtube.com/c/TomStantonEngineering) on youtube, Why? cause I like to look at his ways of iterative designs, how he trouble shoots and goes about problems, But carefully looking at other's project journeys, I steal their techniques for troubleshooting and problem solving abilities.
+
+> There's a treasure trove of youtubers who don't produce content for developer/coders, But they have some of the best engineering skills, and learning from them has benefitted me immensely.
+> I feel like many tech developer channels are just there for milking monies. Very few really give you really nice, actionable advice, and the ones that do don't do it often. 
+
+## Coding Challenges
 
 There’s a bunch of challenges that are created for the sole purpose of teaching you some basics and helping you git gud at these skills you are struggling with.
 
@@ -111,12 +106,16 @@ I’m listing some challenge sets i’ve heard of
 - SDE sheet (by striver)
 - css challenge
 - css battle
-- list more
-- read more, watch less
+- daily UI
+- codewars
+
+there's probably more, I'm not aware of all of them
+
+## read more, watch less
 
 Be comfortable to read a lot, i’ve seen people search for videos, instead of just going ahead and reading the documentations. Video or not, a structured blog/guide or not, you should be able to read a lot in order to find solutions to relatively small problems 
 
-- GIT GUD KID: at reading documentation
+## GIT GUD KID: at reading documentation
 
 This is the same point as the one above, no? NO, Reading documentation is a bit different. 
 There’s a lot of well documented libraries, but oh boy there’s libraries with awful documentation, even better there’s libraries with no documentations 
@@ -124,7 +123,7 @@ There’s a lot of well documented libraries, but oh boy there’s libraries wit
 
 willing to jump directly at api references, reading straight function implementations and the code comments within them, etc. Being proficient with things like these will make you feel that no matter what the library is, if “have” to use it, you can use it. This is a huge confidence boost 
 
-- Learn how to Ask for help
+## Learn how to Ask for help
 
 Oh boy, the amount of times, i really won’t go into another one of these rants i promise myself.
 
@@ -138,8 +137,17 @@ Things to think about when you are asking someone for help.
 
 ---
 
-- Don’t strive for learning cause a project demands it, but rather cause learning is fun.
+## Don’t strive for learning cause a project demands it, but rather cause learning is fun.
 
 This is not applicable to everyone, but I’ve found that people who are always learning about some xyz thing are more likely to solve a problem than people who’ve just learnt what was the absolute bare minimum for their project. This is also another reason I’m very slightly disappointed when people come up to ask whether they should learn Angular/rust/C++…. <insert language/framework/tech name here>. Yeah, you should just go ahead and give it a try. The concepts transfer, your brain struggles and ends up being a really nice thinking machine. it’s awesome to be constantly learning some xyz. it is a privilege many won’t be able to afford due to circumstances and I feel absolutely blessed to be among the folks who can.
 
-## Key-घरी-घेऊन-जा (key takeaways)
+## Key takeaways
+
+- Build Atomic projects
+- Give yourself some room to play. give yourself time.
+- Learn how to solve bugs and troubleshoot.
+- Coding Challenges
+- read more, watch less
+- Get better at reading docs
+- Learn How to ask for help
+- Learn cause it is fun, not cause you need to for a project.

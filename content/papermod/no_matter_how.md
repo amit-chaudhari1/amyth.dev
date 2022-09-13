@@ -1,20 +1,20 @@
 ---
 title: "No matter what, if I keep practicing I will keep getting better."
-date: 2020-09-15T11:30:03+00:00
+date: 2022-07-15T11:30:03+00:00
 # weight: 1
 # aliases: ["/first"]
-tags: ["draft"]
-author: "Amit Chaudhari"
+tags: ["Advice"]
+author: "Me"
 # author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: false
 draft: true
+ShowCodeCopyButtons : true
 hidemeta: false
 comments: false
-description: "Desc Text."
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
-disableShare: false
+disableShare: true
 disableHLJS: false
 hideSummary: false
 searchHidden: true
