@@ -52,7 +52,7 @@ outputs:
 
 params:
     env: production
-    description: "Amit Chaudhari: Backend Developer"
+    description: "Amit Chaudhari's Personal Little space on the Interwebz."
     author: Amit Chaudhari
     # author: ["Me", "You"] # multiple authors
 
@@ -68,7 +68,7 @@ params:
     ShowRssButtonInSectionTermList: true
     ShowToc: true
     # comments: false
-    # images: ["papermod-cover.png"]
+    images: ["homeCover.webp"]
 
     profileMode:
         enabled: false
