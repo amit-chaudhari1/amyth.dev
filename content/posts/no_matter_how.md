@@ -36,27 +36,37 @@ editPost:
     appendFilePath: true # to append file path to Edit link
 ---
 
-I was re-reading One Punch Man recently and stumbled across this dialogue in manga. For a satire protagonist, Saitama does say some really cool shit. I tried to think about this and it was something I wish more people thought about.
+I was re-reading One Punch Man recently and stumbled across this dialogue in manga.
+For a satire protagonist, Saitama does say some really cool shit.
+I tried to think about this and it was something I wish more people thought about.
 
 Almost everyone knows that you can improve in any task by just doing more of it. I think this is a double edged sword, it will hurt you if you don't understand how to wield it.
 
 # **Introduction**
 
-When you search for job positions, all of them have something in common, there is a requirement of **"years of experience"**. The more years of experience, the more seniority you have and therefore you can expect more responsibility and higher salaries. I’m sure everyone agrees that this is something necessary. We will expect a person with **more years of experience** to be "better" at doing a certain task, but as you probably agree, this is **not always true**. Many of us see people with relative young age perform at senior level that you'd expect from a much elder co worker.
+When you search for job positions, all of them have something in common, there is a requirement of **"years of experience"**.
+The more years of experience, the more seniority you have and therefore you can expect more responsibility and higher salaries.
+I’m sure everyone agrees that this is something necessary.
+We will expect a person with **more years of experience** to be "better" at doing a certain task, but as you probably agree, this is **not always true**.
+Many of us see people with relative young age perform at senior level that you'd expect from a much elder co worker.
 
 A big problem here is that a lot of people have this very basic idea that:
 
 > NO MATTER WHAT I DO, IF I JUST KEEP AT IT, KEEP PRACTICING, I WILL GET BETTER. 
 
-This is quite often right, but better does not always mean that you will improve indefinitely. Your brain is structured so that you can automate repetitive activities and perform without requiring any threshold of attention. Of course, you need to pay attention and learn the actions to start with. 
+This is quite often right, but better does not always mean that you will improve indefinitely.
+Your brain is structured so that you can automate repetitive activities and perform without requiring any threshold of attention.
+Of course, you need to pay attention and learn the actions to start with. 
 
 AAAA this will get complicated real fast, so let me use an example to convey my point, please bear with me.
 
-I used to suck at aiming FPS games, anything that involved me having to point and shoot. I decided to practice till I got my aim on point and get my aim to a point where people start calling me fishyChair (a one-shot headshot machine) in game cause of my aim.
+I used to suck at aiming FPS games, anything that involved me having to point and shoot.
+I decided to practice till I got my aim on point and get my aim to a point where people start calling me fishyChair (a one-shot headshot machine) in game cause of my aim.
 
 ![](/images/a_dude_called_me_fishychr.jpg)
 
-Warowl (love his content 💜) has a really nice video about this where he compares this to the process of learning any musical instrument. (I could relate cause i’ve been playing the guitar for years now)
+[Warowl](https://www.youtube.com/user/TheWarOwl) (love his content 💜) has a really nice video about this where he compares this to the process of learning any musical instrument.
+(I could relate cause i’ve been playing the guitar for years now)
 
 I did get there. it involved a ton of attentive, deliberate practice. but once I got it down in my “muscle memory” . *the process was automated.*  i don’t need to think about flicking, or even holding an angle, i just instinctively aim and shoot the heads of my opponents, ( i also have a really nice stack of teammates, who are the best supportive players i could ask). 
 
