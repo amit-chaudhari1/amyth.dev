@@ -40,6 +40,8 @@ languages:
                 - name: Archives
                   url: archives
                   weight: 5
+                - name: Notes
+                  url: https://notes.amyth.dev
                 - name: Search
                   url: search/
                   weight: 6
