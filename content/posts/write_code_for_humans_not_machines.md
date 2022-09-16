@@ -41,13 +41,6 @@ editPost:
 
 \- John F. Woods, 1991*
 
-> I've thought about buying a heavy bag and some boxing gloves and just pomodoroing between the bag and my job. 
-> but I fear that the bag will eventually not be enough and I'll switch to living things whose code i read.
-> whoa i did not realize I typed that, was thinking it in my head and it just came out on the keyboard.
-
-\- Discord message i read on a server.
-
-
 ## **Introduction**
 
 Everyone is a beginner at some point. If you learned to code in the university with a teacher that forced you to write good code, you have a good starting point.
