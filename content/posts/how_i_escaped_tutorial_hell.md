@@ -43,6 +43,8 @@ Are you not able to code anything significant if there is no tutorial on youtube
 
 **If you said yes to either of these questions, chief i’m sorry but you are kind of, maybe, probably, *surely* in tutorial hell.**
 
+> there's nothing wrong about just looking up a tutorial once in a while, I want to address the dependence some people have on them
+
 There’s depths to it just like the world ruled by hades. and you my lovely Zagreus, are going to clear it rise up to the top 
 
 I’ve got some ~~~~boons~~~~ advice that will help you clear the hell faster, and might help you in your adventures beyond the hell.
