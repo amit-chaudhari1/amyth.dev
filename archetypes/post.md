@@ -5,6 +5,8 @@ date: "{{.Date}}"
 # aliases: ["/first"]
 tags: ["draft"]
 author: "Amit Chaudhari"
+categories: ["draft"]
+series:["draft"]
 # author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: false
