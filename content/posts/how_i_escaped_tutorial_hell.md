@@ -65,7 +65,7 @@ Having this clear understanding that this was not supposed to be a product, a po
 
 My reasoning behind this is simple: i did not think anything about this (project), as a result i was not worried of what i might end up breaking, hence i was not afraid to break things, and then proceed to understand what broke and why it broke, which helped me understand a lot about internals better.
 
-- Teach yourself and others
+## Teach yourself and others
 
 It’s called the ****Protégé effect .**** 
 
