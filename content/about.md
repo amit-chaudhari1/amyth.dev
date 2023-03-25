@@ -14,7 +14,7 @@ I'm Amit Chaudhari (Amyth), Thank you for checking out my website.
 
 I'm focused on developer experience, altruism, and being a better Engineer (I try my best).
 The journey of self learning my way from the ground up has been one of the most satisfying experiences in my life.
-Head over to my [LinkedIn]("https://www.linkedin.com/in/amyth-dev/)/[Twitter]("https://twitter.com/amyth_dev), if you want to connect with me professionally.
+Head over to my [LinkedIn](https://www.linkedin.com/in/amyth-dev/)/[Twitter](https://twitter.com/amyth_dev), if you want to connect with me professionally.
 
 I'm looking for jobs that'd help me solve impactful problems, transform my career, and improve me.
 
