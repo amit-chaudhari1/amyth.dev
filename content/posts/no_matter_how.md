@@ -97,9 +97,6 @@ To find the right way, having all the relevant information is the key to ensure 
 
 Following the mouse aiming example, you need to focus on not wasting time on micro adjustments and last minute mouse movements, need to focus on getting accurate shots. need to focus on understanding your reaction times and account for that during holding angles. you have to be really mindful about your mouse and right hand. the learning process is taking all the time, you are forming habits all the time, you are learning things, every moment of the time you spend. if they are the right things or wrong is what you get to decide.
 
-## DIE Duplication is Evil or DRY Don't repeat yourself.
-
-
 ## Retraining your brain.
 
 What if you have learned something the wrong way?. It is possible to change but it is also really hard. Your brain is split into [two systems](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow#Two_systems). System 1 is in charge of **automated actions** and System 2 of **conscious actions**. System 2 is what you call “yourself”. When you learn something, you use your System 2 to program System 1. Once it is programmed, you can perform the learned tasks without effort. It can be called a habit.

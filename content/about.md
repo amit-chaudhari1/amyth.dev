@@ -8,8 +8,6 @@ showToc : false
 
 ---
 
-## Heya 👋
-
 I'm Amit Chaudhari (Amyth), Thank you for checking out my website.
 
 I'm focused on developer experience, altruism, and being a better Engineer (I try my best).

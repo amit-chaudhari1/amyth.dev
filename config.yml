@@ -95,21 +95,20 @@ params:
 
 
             Hope you have fun looking around. Cheers!
-    socialIcons:
-        - name: github
-          url: "https://github.com/amitchaudhari9121"
-        - name: stackoverflow
-          url: "https://stackoverflow.com/users/7249591/amit-chaudhari"
-        - name: linkedin
-          url: "https://www.linkedin.com/in/amyth-dev/"
-        - name: twitter
-          url: "https://twitter.com/amyth_dev"
-        - name: Rss
-          url: "index.xml"
-
+    # socialIcons:
+    #     - name: github
+    #       url: "https://github.com/amit-chaudhari1"
+    #     - name: stackoverflow
+    #       url: "https://stackoverflow.com/users/7249591/amit-chaudhari"
+    #     - name: linkedin
+    #       url: "https://www.linkedin.com/in/amyth-dev/"
+    #     - name: twitter
+    #       url: "https://twitter.com/amyth_dev"
+    #     - name: Rss
+    #       url: "index.xml"
     editPost:
         # open up a new issue template within that project
-        URL: "https://github.com/amitchaudhari9121/amyth.dev"
+        URL: "https://github.com/amit-chaudhari1/amyth.dev/labels"
         Text: "Suggest Changes" # edit text
         appendFilePath: true # to append file path to Edit link
 

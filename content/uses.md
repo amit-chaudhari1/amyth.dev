@@ -12,7 +12,7 @@ draft: false
 hidemeta: false
 comments: false
 description: >
-        A list of all the tech Gear I use. The purpose of this page is to serve as an reference when friends as me about the specifics of the gear I use.
+        A list of all the tech Gear I use. The purpose of this page is to serve as an reference when friends ask me about the specifics of the gear I use.
         Definitely not to show-off. no no I'm very humble.  
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs

@@ -33,7 +33,7 @@ editPost:
     appendFilePath: true # to append file path to Edit link
 ---
 
-> first step starts with realizing where we are within the hell. Also, Don't worry, everybody's been there at some point.
+> First step starts with realizing where we are within the hell. Also, Don't worry, everybody's been there at some point.
 
 Do you feel blank when you try to think of what should you do as a developer when you have an idea of your volition and you don’t have a clue how to get around coding it?
 

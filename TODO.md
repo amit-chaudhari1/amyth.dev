@@ -1,5 +1,7 @@
 - math support.
 - auto metadata generation. (to an extent_ i guess)
+- better seo and accesibilty support
 - ext. Emoji support.
 - search does not seem to work
 - plotly and katex support please 
+- i want to be able to support mdx syntax
