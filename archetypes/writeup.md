@@ -3,7 +3,7 @@ title: "{{ replace .Name "-" " " | title }}"
 date: "{{.Date}}"
 # weight: 1
 # aliases: ["/first"]
-tags: ["HTB","writeup"]
+tags: ["writeup"]
 author: "Amit Chaudhari"
 # author: ["Me", "You"] # multiple authors
 showToc: true
@@ -31,7 +31,7 @@ cover:
     relative: false # when using page bundles set this to true
     hidden: true # only hide on current single page
 editPost:
-    URL: "https://github.com/<path_to_repo>/content"
+    URL: "https://github.com/amit-chaudhari1/amyth.dev/labels/"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 ---

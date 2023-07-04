@@ -1,5 +1,5 @@
 baseURL: "https://amyth.dev" 
-title: Amit Chaudhari
+title: amyth.dev
 paginate: 5
 theme: PaperMod
 
@@ -28,23 +28,33 @@ languages:
                 - name: About
                   url: about
                   weight: 1
-                - name: Resume
-                  url: resume
+                # - name: Resume
+                #   url: resume
+                #   weight: 2
+                # - name: Tags
+                #   url: tags/
+                #   weight: 3
+                # - name: Categories
+                #   url: categories
+                #   weight: 4
+                - name : Writeups
+                  url : writeups
                   weight: 2
-                - name: Tags
-                  url: tags/
+                - name : Editorials
+                  url : editorials
                   weight: 3
-                - name: Categories
-                  url: categories
-                  weight: 4
+                - name : Projects
+                  url : projects
+                  weight: 6
                 - name: Archives
                   url: archives
-                  weight: 5
+                  weight: 4
                 - name: Notes
                   url: https://notes.amyth.dev
+                  weight: 7
                 - name: Search
                   url: search/
-                  weight: 6
+                  weight: 5
 
 outputs:
     home:
@@ -86,15 +96,13 @@ params:
               url: tags
 
     homeInfoParams:
-        Title : "Hello there 👋"
+        Title : "<code>[~]:$ whoami</code>"
         Content: >
-            I'm Amit, Software developer with an interest in Backend, InfoSec & Custom keyboards. 
+            Software developer an interest in Competitive Programming, Backend Design, InfoSec & Custom keyboards. 
 
 
-            This is my little space on the internet. 
+            - Linktree: THe
 
-
-            Hope you have fun looking around. Cheers!
     # socialIcons:
     #     - name: github
     #       url: "https://github.com/amit-chaudhari1"
