@@ -117,11 +117,6 @@ params:
     #       url: "https://twitter.com/amyth_dev"
     #     - name: Rss
     #       url: "index.xml"
-    editPost:
-        # open up a new issue template within that project
-        URL: "https://github.com/amit-chaudhari1/amyth.dev/labels"
-        Text: "Suggest Changes" # edit text
-        appendFilePath: true # to append file path to Edit link
 
     # label:
     #     text: "Home"

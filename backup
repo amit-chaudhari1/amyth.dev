@@ -102,10 +102,10 @@ SiteVerificationTag = "XYZabc"
   hiddenInList = true
   hiddenInSingle = true
 
-  [params.editPost]
-  URL = "https://github.com/amit-chaudhari1/amyth.dev/labels/"
-  Text = "Suggest Changes"
-  appendFilePath = true
+  # [params.editPost]
+  # URL = "https://github.com/amit-chaudhari1/amyth.dev/labels/"
+  # Text = "Suggest Changes"
+  # appendFilePath = true
 
   [params.fuseOpts]
   isCaseSensitive = false

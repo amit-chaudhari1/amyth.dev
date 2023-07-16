@@ -9,10 +9,6 @@ ShowBreadCrumbs : false
 ShowPostNavLinks : false
 disableShare : true
 ShowWordCount : false
-editPost:
-  URL: "/resume.pdf"
-  Text: "Download PDF" # edit text
-  appendFilePath: false
 ---
 
 ---

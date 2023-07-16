@@ -4,7 +4,7 @@ date: 2022-07-15T11:30:03+00:00
 # weight: 1
 # aliases: ["/first"]
 tags: ["Advice"]
-author: "Me"
+author: "Amit "
 # author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: false

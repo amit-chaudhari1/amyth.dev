@@ -26,10 +26,6 @@ ShowPostNavLinks: true
 ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
-editPost:
-    URL: "https://github.com/amit-chaudhari1/amyth.dev/labels/"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
 ---
 
 #### Laptop, Daily Personal Driver: Lenovo Legion 5 Pro (3070, 32 GB variant)

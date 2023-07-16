@@ -3,12 +3,12 @@ title: "Writing for Humans, not for Machines"
 date: 2020-09-15T11:30:03+00:00
 # weight: 1
 # aliases: ["/first"]
-tags: ["draft"]
+tags: ["Advice", "Whish I Was Told This "]
 author: "Amit Chaudhari"
 # author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: true
-draft: true
+draft: false
 hidemeta: false
 comments: false
 canonicalURL: "https://canonical.url/to/page"
@@ -23,10 +23,6 @@ ShowPostNavLinks: true
 ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
-editPost:
-    URL: "https://github.com/amit-chaudhari1/amyth.dev/labels/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
 ---
 
 > *Any fool can write code that a computer can understand. Good programmers write code that humans can understand.*
