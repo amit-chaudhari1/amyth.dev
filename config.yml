@@ -100,8 +100,11 @@ params:
         Content: >
             Software developer an interest in Competitive Programming, Backend Design, InfoSec & Custom keyboards. 
 
-
-            - Linktree: THe
+            </br>
+            </br>
+            - <a href="/socials"> Socials </a> for all you social butterflies </br> 
+            - <a href="/writeups" > Writeups </a> HTB writeups, other writeups, all writeups basically </br> 
+            - <a href="/pp-big" > Personal Projects </a> a bunch of Projects, many are abandonded, few are cherished, all were teachers </br> 
 
     # socialIcons:
     #     - name: github

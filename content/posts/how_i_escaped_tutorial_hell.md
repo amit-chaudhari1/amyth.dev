@@ -27,10 +27,6 @@ cover:
     alt: "<alt Hades with a colorful header>" # alt text
     relative: false # when using page bundles set this to true
     hidden: false # only hide on current single page
-editPost:
-    URL: "https://github.com/<path_to_repo>/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
 ---
 
 > First step starts with realizing where we are within the hell. Also, Don't worry, everybody's been there at some point.
