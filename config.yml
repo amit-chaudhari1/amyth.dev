@@ -96,7 +96,7 @@ params:
               url: tags
 
     homeInfoParams:
-        Title : "<code>[~]:$ whoami</code>"
+        Title : "whoami"
         Content: >
             Software developer an interest in Competitive Programming, Backend Design, InfoSec & Custom keyboards. 
 
