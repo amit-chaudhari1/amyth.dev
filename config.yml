@@ -44,7 +44,7 @@ languages:
                   url : editorials
                   weight: 3
                 - name : Projects
-                  url : projects
+                  url : pp-big
                   weight: 6
                 - name: Archives
                   url: archives

@@ -8,15 +8,17 @@ showToc : false
 
 ---
 
-I'm Amit Chaudhari (Amyth), Thank you for checking out my website.
+Amyth, Thank you for checking out my website.
 
 I'm focused on developer experience, altruism, and being a better Engineer (I try my best).
 The journey of self learning my way from the ground up has been one of the most satisfying experiences in my life.
 Head over to my [LinkedIn](https://www.linkedin.com/in/amyth-dev/)/[Twitter](https://twitter.com/amyth_dev), if you want to connect with me professionally.
 
-I'm looking for jobs that'd help me solve impactful problems, transform my career, and improve me.
+I'm looking for jobs that'd help me thrive, solve impactful problems, progress my career, and improve me as a human being.
 
-Here's my [resume](/resume), if you are interested in hiring me.
+
+
+Here's my [resume](/resume.pdf), if you are interested in hiring me.
 
 ---
 
@@ -35,7 +37,7 @@ I've also done some work in mobile app development (using Flutter).
 In my evenings I like to read books and RFCs, write articles, code things, gaming, play guitar and spend time with some of my favorite people in life.
 
 I'm into : 
-`Music production` `Audiophilia` `Guitars` `Custom mechanical keyboards` `CS:GO` `Valorant` `Factorio` `Retro Electronics` `Digital Art (Blender)` `Anime & Manga`. 
+`Music production` `Audiophilia` `Guitars` `Custom mechanical keyboards` `CS:GO` `Valorant` `Factorio` `Retro Electronics` `Anime & Manga`. 
 
 ---
 

@@ -56,7 +56,7 @@ Forza Horizon 5
 
 Wolfenstien series (the newer one)
 
-Wishlist: ( I don’t buy these cause i want to be somewhat productive atleast 😅 )
+Wishlist: ( I have not buy these cause i want to be somewhat productive atleast 😅 )
 
 Arma 3 
 
