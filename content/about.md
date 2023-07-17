@@ -8,7 +8,7 @@ showToc : false
 
 ---
 
-Amyth, Thank you for checking out my website.
+Thank you for checking out my website.
 
 I'm focused on developer experience, altruism, and being a better Engineer (I try my best).
 The journey of self learning my way from the ground up has been one of the most satisfying experiences in my life.
