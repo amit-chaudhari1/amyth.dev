@@ -1,9 +1,11 @@
 ---
 title: "How I escaped Tutorial Hell"
 date: 2022-08-05T11:30:03+00:00
+weight: 1
 # aliases: ["/first"]
 tags: ["Advice", "Wish I Was Told This", "Non-Tech"]
-author: "Amit"
+author: "Me"
+# author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: false
 ShowCodeCopyButtons : true
@@ -25,6 +27,10 @@ cover:
     alt: "<alt Hades with a colorful header>" # alt text
     relative: false # when using page bundles set this to true
     hidden: false # only hide on current single page
+editPost:
+    URL: "https://github.com/amit-chaudhari1/amyth.dev/labels/content"
+    Text: "Suggest Changes" # edit text
+    appendFilePath: true # to append file path to Edit link
 ---
 
 > First step starts with realizing where we are within the hell. Also, Don't worry, everybody's been there at some point.

@@ -4,7 +4,7 @@ date: 2022-07-15T11:30:03+00:00
 # weight: 1
 # aliases: ["/first"]
 tags: ["Advice"]
-author: "Amit "
+author: "Me"
 # author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: false
@@ -30,6 +30,10 @@ cover:
     caption: "<text>" # display caption under cover
     relative: true # when using page bundles set this to true
     hidden: false # only hide on current single page
+editPost:
+    URL: "https://github.com/amit-chaudhari1/amyth.dev/labels/content"
+    Text: "Suggest Changes" # edit text
+    appendFilePath: true # to append file path to Edit link
 ---
 
 I was re-reading One Punch Man recently and stumbled across this dialogue in manga.

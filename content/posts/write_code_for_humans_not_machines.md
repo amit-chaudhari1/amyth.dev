@@ -37,7 +37,7 @@ UseHugoToc: true
 
 \- John F. Woods, 1991*
 
-## **Introduction**
+# **Introduction**
 
 Everyone is a beginner at some point. If you learned to code in the university with a teacher that forced you to write good code, you have a good starting point.
 But sadly, most people learn on their own or with **no proper guidance in code quality**. 
